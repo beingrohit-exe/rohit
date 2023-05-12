@@ -61,7 +61,7 @@ const Banner = () => {
     return (
         <section className="banner" id="home">
             <Container>
-                <Row className="aligh-items-center">
+                <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <TrackVisibility>
                             {({ isVisible }) =>
@@ -90,7 +90,7 @@ const Banner = () => {
                         </TrackVisibility>
 
                     </Col>
-                    <Col xs={12} md={6} xl={5}>
+                    <Col className='animated-image' xs={12} md={6} xl={5}>
                         <TrackVisibility>
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
