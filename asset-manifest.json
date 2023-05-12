@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rohit/static/css/main.e9e34388.css",
-    "main.js": "/rohit/static/js/main.4a76a3ad.js",
+    "main.css": "/rohit/static/css/main.36414a64.css",
+    "main.js": "/rohit/static/js/main.acecc62b.js",
     "static/media/mesh.png": "/rohit/static/media/mesh.61a9c4f3c12f6df9d5fb.png",
     "static/media/CentraNo2-Bold.ttf": "/rohit/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/rohit/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -22,11 +22,11 @@
     "static/media/spring.svg": "/rohit/static/media/spring.163d115dfcbe114ada371e05cc3a8f0c.svg",
     "static/media/nav-icon1.svg": "/rohit/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/rohit/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.e9e34388.css.map": "/rohit/static/css/main.e9e34388.css.map",
-    "main.4a76a3ad.js.map": "/rohit/static/js/main.4a76a3ad.js.map"
+    "main.36414a64.css.map": "/rohit/static/css/main.36414a64.css.map",
+    "main.acecc62b.js.map": "/rohit/static/js/main.acecc62b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9e34388.css",
-    "static/js/main.4a76a3ad.js"
+    "static/css/main.36414a64.css",
+    "static/js/main.acecc62b.js"
   ]
 }
