@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecb313b3.css",
-    "main.js": "/static/js/main.cbe98510.js",
-    "static/media/mesh.png": "/static/media/mesh.61a9c4f3c12f6df9d5fb.png",
-    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/header.svg": "/static/media/header.9f379fb1185e4fbff45dbaf680c5d415.svg",
-    "static/media/ROHIT.svg": "/static/media/ROHIT.ee2f029155f41ea3d2623245ca94f454.svg",
-    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/github.svg": "/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
-    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "index.html": "/index.html",
-    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.ecb313b3.css.map": "/static/css/main.ecb313b3.css.map",
-    "main.cbe98510.js.map": "/static/js/main.cbe98510.js.map"
+    "main.css": "/rohit/static/css/main.90329ecb.css",
+    "main.js": "/rohit/static/js/main.837401c9.js",
+    "static/media/mesh.png": "/rohit/static/media/mesh.61a9c4f3c12f6df9d5fb.png",
+    "static/media/CentraNo2-Bold.ttf": "/rohit/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/rohit/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/rohit/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/header.svg": "/rohit/static/media/header.9f379fb1185e4fbff45dbaf680c5d415.svg",
+    "static/media/ROHIT.svg": "/rohit/static/media/ROHIT.ee2f029155f41ea3d2623245ca94f454.svg",
+    "static/media/nav-icon3.svg": "/rohit/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/github.svg": "/rohit/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/rohit/index.html",
+    "static/media/nav-icon1.svg": "/rohit/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/rohit/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.90329ecb.css.map": "/rohit/static/css/main.90329ecb.css.map",
+    "main.837401c9.js.map": "/rohit/static/js/main.837401c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecb313b3.css",
-    "static/js/main.cbe98510.js"
+    "static/css/main.90329ecb.css",
+    "static/js/main.837401c9.js"
   ]
 }
