@@ -133,3 +133,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     border-color: transparent;
 }
+
+@media (max-width: 580px) {
+    .logo-text {
+        font-size: 28px;
+    }
+}
