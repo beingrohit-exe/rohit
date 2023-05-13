@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rohit/static/css/main.36414a64.css",
-    "main.js": "/rohit/static/js/main.acecc62b.js",
+    "main.css": "/rohit/static/css/main.dd7152bd.css",
+    "main.js": "/rohit/static/js/main.09ab640a.js",
     "static/media/mesh.png": "/rohit/static/media/mesh.61a9c4f3c12f6df9d5fb.png",
     "static/media/CentraNo2-Bold.ttf": "/rohit/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/rohit/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -10,23 +10,31 @@
     "static/media/oauth.svg": "/rohit/static/media/oauth.60c9d36ee29168824dc3d31c45ebbf92.svg",
     "static/media/mongodb-plain-wordmark.svg": "/rohit/static/media/mongodb-plain-wordmark.db0ee36b9c6a31caab76f1ca7a2aa2b7.svg",
     "static/media/ROHIT.svg": "/rohit/static/media/ROHIT.ee2f029155f41ea3d2623245ca94f454.svg",
+    "static/media/react.svg": "/rohit/static/media/react.0cc978f43ea437de003e85712225e83b.svg",
     "static/media/docker-original-wordmark.svg": "/rohit/static/media/docker-original-wordmark.b940f5e3bf1fb132e19b65db8129357e.svg",
     "static/media/rest-api.svg": "/rohit/static/media/rest-api.dcdb94cfdb90c17b17e80f751d00e5b1.svg",
     "static/media/mysql-original-wordmark.svg": "/rohit/static/media/mysql-original-wordmark.0b9bc0186525f731d3c8f5ade5f64deb.svg",
+    "static/media/react-native.svg": "/rohit/static/media/react-native.77d2887a1e0d894b2cebac65cfc1bb6e.svg",
     "static/media/apachekafka.svg": "/rohit/static/media/apachekafka.434f5d2abd356c11f209c66efe38cc5e.svg",
     "static/media/java-original-wordmark.svg": "/rohit/static/media/java-original-wordmark.cbc1a7f547d1c508547dfed459162d68.svg",
     "static/media/postman.svg": "/rohit/static/media/postman.e901ff748f89df47af5769dd9e812ede.svg",
+    "static/media/bootstrap.svg": "/rohit/static/media/bootstrap.46e166ca9591bcc3873daf2486df5473.svg",
     "static/media/nav-icon3.svg": "/rohit/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/javascript-js.svg": "/rohit/static/media/javascript-js.63b93412a24001eff2acc22e0cb40276.svg",
+    "static/media/css.svg": "/rohit/static/media/css.ac1f9e5fab015740dfd8bf863dd74e8e.svg",
     "index.html": "/rohit/index.html",
     "static/media/github.svg": "/rohit/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/flutter.svg": "/rohit/static/media/flutter.f6de375f32cdf20a7574c624b074852d.svg",
     "static/media/spring.svg": "/rohit/static/media/spring.163d115dfcbe114ada371e05cc3a8f0c.svg",
     "static/media/nav-icon1.svg": "/rohit/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/html.svg": "/rohit/static/media/html.51305ec564cee03372ec0fdaaa77854d.svg",
+    "static/media/material-ui.svg": "/rohit/static/media/material-ui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
     "static/media/nav-icon2.svg": "/rohit/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.36414a64.css.map": "/rohit/static/css/main.36414a64.css.map",
-    "main.acecc62b.js.map": "/rohit/static/js/main.acecc62b.js.map"
+    "main.dd7152bd.css.map": "/rohit/static/css/main.dd7152bd.css.map",
+    "main.09ab640a.js.map": "/rohit/static/js/main.09ab640a.js.map"
   },
   "entrypoints": [
-    "static/css/main.36414a64.css",
-    "static/js/main.acecc62b.js"
+    "static/css/main.dd7152bd.css",
+    "static/js/main.09ab640a.js"
   ]
 }
