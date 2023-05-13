@@ -34,6 +34,8 @@ body {
     background-color: #121212 !important;
     color: #fff !important;
     font-family: 'Centra', sans-serif !important;
+    background: url(./assets/img/mesh.png);
+    background-attachment: fixed;
 }
 
 h1,
