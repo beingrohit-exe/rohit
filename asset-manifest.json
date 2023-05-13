@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rohit/static/css/main.1e013850.css",
-    "main.js": "/rohit/static/js/main.6033706f.js",
+    "main.css": "/rohit/static/css/main.71772529.css",
+    "main.js": "/rohit/static/js/main.1e1bfaf6.js",
     "static/media/mesh.png": "/rohit/static/media/mesh.61a9c4f3c12f6df9d5fb.png",
     "static/media/CentraNo2-Bold.ttf": "/rohit/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/rohit/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -30,11 +30,11 @@
     "static/media/html.svg": "/rohit/static/media/html.51305ec564cee03372ec0fdaaa77854d.svg",
     "static/media/material-ui.svg": "/rohit/static/media/material-ui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
     "static/media/nav-icon2.svg": "/rohit/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.1e013850.css.map": "/rohit/static/css/main.1e013850.css.map",
-    "main.6033706f.js.map": "/rohit/static/js/main.6033706f.js.map"
+    "main.71772529.css.map": "/rohit/static/css/main.71772529.css.map",
+    "main.1e1bfaf6.js.map": "/rohit/static/js/main.1e1bfaf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e013850.css",
-    "static/js/main.6033706f.js"
+    "static/css/main.71772529.css",
+    "static/js/main.1e1bfaf6.js"
   ]
 }
