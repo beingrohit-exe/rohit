@@ -54,11 +54,15 @@
 
 .banner .banner-image {
     animation: updown 3s linear infinite;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
 }
 
 @keyframes updown {
     0% {
-        transform: scale(0.8);
+        transform: scale(0.9);
     }
 
     50% {
@@ -66,7 +70,7 @@
     }
 
     100% {
-        transform: scale(0.8);
+        transform: scale(0.9);
     }
 }
 
@@ -112,7 +116,7 @@
 }
 
 .banner-social .github::before {
-    background-color: #545454;
+    background-color: black;
 }
 
 .banner-social .instagram::before {

@@ -94,7 +94,8 @@ const Banner = () => {
                         <TrackVisibility>
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-                                    <img className='banner-image' src={headerImg} alt="Header Img" />
+                                    {/* <img className='banner-image' src={headerImg} alt="Header Img" /> */}
+                                    <img className='banner-image' src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit-exe" />
                                 </div>}
                         </TrackVisibility>
                     </Col>
